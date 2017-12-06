@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Adam Mayorga - Skills</title>
+    </head>
+    <body>
+        <h3>Navigation</h3>
+        <a href="FirstPage.html">Home</a>
+        <h2>Skills</h2>
+        <ul>
+            <li>Sales</li>
+            <li>Playing guitar</li>
+            <li>Playing drums</li>
+            <li>Audio production and engineering</li>
+        </ul>
+        <h2>Education</h2>
+        <table border="1" width="100%">
+<thead>
+    <tr>
+        <th>Institution</th>
+        <th>Field of Study</th>
+        <th>Start Date</th>
+        <th>End Date</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>University of Minnesota</td>
+        <td>English</td>
+        <td>9/2000</td>
+        <td>5/2005></td>
+    </tr>
+</tbody>
+        </table>
+        <ul>
+            <li>University of MN - English</li>
+            <li>Institute of Production and Recording - Audio Engineering</li>
+        </ul>
+    </body>
+</html>
